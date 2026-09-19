@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "69c471ecdb43b572798f99ef",
+  "owner": "kpdzvvfm",
+  "repo": "page-562cc939aec94b61810469d9",
+  "title": "免费订阅clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "562cc939aec94b61810469d9",
+      "a": "泡芙云",
+      "b": "免费订阅clash节点",
+      "entity": "泡芙云",
+      "brand": "免费订阅clash节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0e0acddcafdf04a073a7870da9ec76a1c485a9594b4b96aaa438389b999ad248",
+      "content": {
+        "primary_entity": "泡芙云",
+        "keyword1": "泡芙云",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择客户端，在订阅页导入泡芙云配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐，在设备客户端导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，泡芙云以海外加速为核心，套餐按流量、设备数与线路等级区分，基础版适合轻量浏览，旗舰版增加 IPLC 专线与流媒体解锁，团队版面向多设备协作场景。订阅配置可导入 Clash 等客户端，配合节点选择完成日常访问。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路等级三个角度选择泡芙云套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合手机与笔记本日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，提供高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "进阶加速",
+          "AI_FEATURE_TITLE_3": "多设备团队",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端订阅导入的三个步骤。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "泡芙云提供基础版、旗舰版与团队版三档海外加速套餐，覆盖不同流量与设备需求。按设备系统选择 Clash 等客户端，导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配多设备",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，查看对应订阅格式说明。",
+          "AI_STEP_TEXT_3": "在客户端内导入泡芙云订阅链接，按客户端文档完成节点配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "泡芙云海外加速",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 适合单人轻量使用；旗舰版 300GB 并支持 5 台设备，适合家庭或高频用户；团队版 1000GB 与 20 台设备面向小型团队。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中导入订阅链接即可，具体操作步骤请参考各客户端的配置文档，配置完成一般自动同步节点。",
+          "AI_FAQ_ANSWER_3": "各套餐支持的在线设备数不同：基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量时，新设备可能无法连接。",
+          "AI_FAQ_ANSWER_4": "月付按各版本标价收取；按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相当于节省两个月费用。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版提供不同优先级的工单支持；团队版配有专属客户经理协助处理路由与节点问题。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何根据流量和人数选择套餐？",
+          "AI_FAQ_QUESTION_2": "泡芙云订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "一个账号能同时连接几台设备？",
+          "AI_FAQ_QUESTION_4": "月付和年付的差别是什么？",
+          "AI_FAQ_QUESTION_5": "遇到节点延迟高或断流怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2dccc4bb0f35abfba30c1a9aabe8c968c5c5dbf488bd39c26f395d278e4aadfb",
+    "sitemap.xml": "4e55a54c30c4afce7b8d8145deb94b90c6a72c1036c6ad2ac2b0eb3d269fbd21",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d9bb07d4c885d2751e05b2677096c0bd0a75ca7306e2e8538e0ce003c55d6e11"
+}
